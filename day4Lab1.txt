@@ -1,0 +1,13 @@
+ season = winter
+x = 2
+y = 3.3
+e = q = 1
+o , t ,r = 3, 6, 9
+print(season)
+print(x)
+print(y)
+print(e)
+print(q)
+print(o)
+print(t)
+print(r) 
